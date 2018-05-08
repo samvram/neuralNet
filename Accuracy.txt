@@ -1,0 +1,1 @@
+The accuracy is 24.92 %		-	Nearest Neighbour
